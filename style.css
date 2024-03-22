@@ -590,4 +590,12 @@ box-shadow: -60px 50px 10px #F5F8FA;
         margin: auto;
       
     }
+    .ul{
+    padding: 3px 4px;
+        width: 70%;
+    }
+    .li:hover{
+        margin: 0;
+        transform: scale(1);
+    }
 }
